@@ -1,0 +1,28 @@
+.informations{
+    background-color: #041a29;
+    width: 80%;
+    color: white;
+    font-weight: 400;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 2px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+/* cart btn design */
+.cart-button{
+    color: black;
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+    align-items: center;
+}
+.icon-color{
+    color: rgb(255, 204, 74);
+}
+.footer{
+    padding: 10px;
+}
